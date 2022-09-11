@@ -1,0 +1,77 @@
+                       Power BI Dashboard 
+
+ WHAT IS POWER BI
+Power BI is the collective name for an assortment of cloud-based apps and services that helps organizations collate, manage, and analyze data from a variety of sources through a user-friendly interface.
+Business intelligence tools like Power can be used for a multitude of purpose. 
+Primarily, Power BI pulls data together and process it and helps-00 turning it into intelligible insights, often using visually compelling and easy-to-process charts and graphs. This allows users to generate and share clear and useful snapshots of what’s happening in their business. 
+WHAT DOES THE POWER BI DO?
+Microsoft Power BI is used to run reports and surface insights based on a company’s data. Power BI can connect to a wide range of data sets, “ties up” the information and feeds so that it can be better digested and understood. The reports and visuals are generated from this data and then can be shared with other users.
+Power BI helps users to see not only what’s happened in the past and what is happening in the present, but also what might happen in the future. Power BI is infused with machine learning capabilities, meaning it can spot patterns in data and use those patterns to make informed predictions and run “what if” scenarios. These estimates allow users to generate forecasts, and prepare themselves to meet future demand and other key metrics.
+WHY DO PEOPLE USE POWER BI?
+For businesses who wants more reporting power and analytical muscle than that is offered by Excel, Power BI is the next level in business intelligence. With Power BI, businesses can assemble, scrutinize and visualize data from across the company giving them greater insight into their operations and performance and allow the user to make more informed decisions based on real data.
+
+HERE ARE SOME OF THE KEY BENEFITS OF USING POWER BI.
+•	Businesses can input huge quantities of data into Power BI that many other platforms would struggle to process.
+•	Built-in machine learning features can analyze data and help users spot valuable trends and make educated predictions.
+•	Powerful personalization capabilities allow users to create Dashboard so they can access the data they need quickly.
+•	Information can be visualized using powerful templates to allow businesses to better make sense of their data.
+•	With data security a massive talking point for modern businesses, Power BI ensures data is safe, offering granular controls on accessibility both internally and externally.
+ 
+ PURPOSE:
+                           To unlock Sales insights that are not visible before for sales team for                   decision support & automate them to reduced manual time spent in gathering data.
+ STACK HOLDERS:
+•	Sales Director 
+•	Marketing Team
+•	Customer Service Team
+•	Data & Analytics Team
+•	IT
+ 
+ SUCCESS CRITERIA:
+•	Dashboard Uncovering sales order insights with latest data available.
+•	Sales team able to take better decision & prove 10% cost savings of total spend.
+•	Sales Analysts stop data gathering manually in order to save 20% of their business time and reinvest it value added activity.
+
+
+This is a dashboard report and dataset for a company that manufactures marketing materials. This dashboard was created by a Shakti Singh Thakur to see key metrics about their business unit products, customers and gross margins (GM). At a glance, they can see what factors are impacting profitability.
+
+ 
+
+This is a part of a series that shows how you can use Power BI with business-oriented data, reports, and dashboards. The data is available in several formats: I created this dashboard from Sql.text file or an. pbxi
+
+	  
+I also use Mobile Layout Format for Mobile Visuals for Better Experience whoever using Power BI in Mobile App.
+
+ADVANTAGE OF DASHBOARD.
+
+Dashboards are a wonderful way to monitor your business and see all of your most important metrics at a glance. The visualizations on dashboard can come from one or more underlying dataset, underlying reports. A dashboard combines on-premises and cloud data to provide and consolidate a view regardless of where the data lives.
+A dashboard isn't just a pretty picture. It's highly interactive and the tiles update as the underlying data changes.
+
+
+HERE IS THE PROCESS HOW I HAVE CREATED THIS MASTERPIECE:
+
+STEP 1:  DATA ANALYZATION.
+In this Process I have used  MySQL Server Workbench 8.0, here, I have Analyzed and   Cleaned Data to Remove Null Values, changed Currency USD to INR and Add Column.
+ 
+ 
+Removed Extra markets.
+ 
+Change Currency (USD to INR).
+STEP 2: TRANSFER OF DATA TO POWER BI DESKTOP.
+
+For Visualization We Have to Install Power BI Desktop from Microsoft Store. So First We Have to Import Data in Power BI I shared an Image How I transferred a data from MySQL Server to Power BI, then in Step I show you how I create dashboard. 
+
+ 
+
+STEP 3: USE OF POWER BI TOOLS FOR VISUALIZATION.
+
+First, I have used a Card to show Revenue of Company & also for Sales Quantity. Second thing have done is, used stacked Bar Chart to Show How market is going by Revenue also for Sales by Market So everything became clear, how did the state make more profit from revenue and from sales. Third I used slicer for showing all options in list so anyone can select a year in a list and also same for months, so this made it easier to understand and understand that so many years of data on a single page. I have  also shown the list of top 5 customers and products with the help of stacked bar chart. At the End, I have used line chart so that the Manager or CEO can understand the trend of loss and profit for months and years.
+
+ 
+
+STEP 4: PUBLISHED A REPORT IN POWER BI CLOUD
+
+After Successful Completion of  Dashboard, I Published a Report in Power BI Cloud.
+
+  
+                              
+
